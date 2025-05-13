@@ -7,6 +7,6 @@
 
 extern bool off;
 
-void Blue::right(){
+void Red::special(){
     
 }

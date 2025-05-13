@@ -21,7 +21,7 @@ namespace Blue {
     void solo();
 
     //特殊
-    void Special();
+    void special();
 }
 
 namespace Red {
@@ -35,5 +35,5 @@ namespace Red {
     void solo();
 
     //特殊
-    void Special();
+    void special();
 }
